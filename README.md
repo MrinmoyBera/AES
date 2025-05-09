@@ -24,5 +24,3 @@ AES can be used in several modes to accommodate different use cases. Some common
 
 ### Security and Applications:
 AES is highly resistant to all known practical cryptographic attacks when implemented correctly. It's efficient both in software and hardware, making it suitable for a range of applications, from securing online transactions to protecting sensitive information in IoT devices.
-
-Let me know if you'd like specific details on any AES mode, or if you need LaTeX code for diagrams related to AES operations!
